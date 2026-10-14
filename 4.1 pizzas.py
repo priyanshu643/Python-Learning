@@ -20,7 +20,7 @@ pizzas =  ['margarita', 'Chez burst', 'Peppy Paneer']
 for pizza in pizzas:
     # print(pizza) # printing all the pizza name is separately.
     # now printing the pizza with an special message.
-    print('----' * 10) # decoration
+    print('----' * 10)  # decoration
     print(f"I love to eat {pizza} pizza.")
     print(f"I really like the {pizza} pizza.")
     print('----' * 10) # decoration
