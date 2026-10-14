@@ -6,3 +6,6 @@ the value of each cube."""
 # making a list
 cubes = [i ** 3 for i in range(1, 11)]
 print(cubes) # printing the cubes.
+# adding a for loop to print out them all separately!
+for cube in cubes:
+    print(cube) # printing the separate cubes.
